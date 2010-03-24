@@ -1,0 +1,1 @@
+vpn_config is a simple tool to help admins create OpenVPN configurations. Just paste in all the necessary info and vpn_config will return a gzipped folder ready for use with your VPN software.
