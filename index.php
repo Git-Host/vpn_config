@@ -221,7 +221,7 @@ EOT;
       </p>
     </fieldset>
   </form>
-  <div id="footer">Made by Filipp | <a href="">source@github</a></div>
+  <div id="footer">Made by Filipp | <a href="http://github.com/filipp/vpn_config" target="_blank">source@github</a></div>
 </div>
 <script type="text/javascript" charset="utf-8">
   document.getElementById('name').focus();
